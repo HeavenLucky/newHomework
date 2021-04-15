@@ -1,0 +1,6 @@
+/Users/lucifer/Projects/homework5/homework5/bin/Debug/homework5.exe
+/Users/lucifer/Projects/homework5/homework5/bin/Debug/homework5.pdb
+/Users/lucifer/Projects/homework5/homework5/obj/Debug/homework5.csprojAssemblyReference.cache
+/Users/lucifer/Projects/homework5/homework5/obj/Debug/homework5.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/homework5/homework5/obj/Debug/homework5.exe
+/Users/lucifer/Projects/homework5/homework5/obj/Debug/homework5.pdb
